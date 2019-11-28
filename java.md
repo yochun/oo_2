@@ -29,10 +29,8 @@ public class app11_1{
 ```
 
 ---
-
-
+UML程式碼
 ```js
-
 public interface Shape {  
    double getArea();
 }
